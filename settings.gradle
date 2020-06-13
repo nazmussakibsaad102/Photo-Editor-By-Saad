@@ -1,0 +1,2 @@
+rootProject.name='Photo Editor by Saad'
+include ':app', ':photoeditor'
